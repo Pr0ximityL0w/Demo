@@ -60,9 +60,9 @@ body, html {
 }
 .four-col {
   float: left;
-  width: 20%;
+  width: 10%;
   padding: 0 2%;
-  text-align: center;
+  text-align: left;
 }
 section {
   overflow: auto;
