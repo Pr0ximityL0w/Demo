@@ -26,7 +26,7 @@ body, html {
 }
 .parallax1, {
   position: relative;
-  opacity: .10;
+  opacity: .40;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
